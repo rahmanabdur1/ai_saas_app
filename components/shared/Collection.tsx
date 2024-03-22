@@ -61,7 +61,7 @@ export const Collection = ({
         </ul>
       ) : (
         <div className="collection-empty">
-          <p className="p-20-semibold">Empty List  . So, Go to Generative Fill</p>
+          <p className="p-20-semibold">Empty List . So, Go to Image Restore</p>
         </div>
       )}
 
